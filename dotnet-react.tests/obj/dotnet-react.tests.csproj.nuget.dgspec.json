@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react.tests\\dotnet-react.tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react.tests\\dotnet-react.tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react.tests\\dotnet-react.tests.csproj",
+        "projectName": "dotnet-react.tests",
+        "projectPath": "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react.tests\\dotnet-react.tests.csproj",
+        "packagesPath": "C:\\Users\\Jaicker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react.tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jaicker\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react\\dotnet-react.csproj": {
+                "projectPath": "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react\\dotnet-react.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react\\dotnet-react.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react\\dotnet-react.csproj",
+        "projectName": "dotnet-react",
+        "projectPath": "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react\\dotnet-react.csproj",
+        "packagesPath": "C:\\Users\\Jaicker\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jaicker\\Documents\\NetCoreProjects\\Hiberus\\developer-test\\dotnet-react\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jaicker\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
